@@ -1,5 +1,5 @@
 # spotify_project
-Two projects related to Spotify: 
+Two small projects related to Spotify: 
 
 
 Project 1 - Done in course "Statistical Machine Learning", in winter of 2020/2021: 
